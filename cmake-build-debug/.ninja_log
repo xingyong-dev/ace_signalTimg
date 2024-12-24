@@ -1,0 +1,8 @@
+# ninja log v5
+2	1116	1734657508020821451	CMakeFiles/ace_signal.dir/GbtExchg.cpp.o	4c99639471e40c88
+0	23	1735023256448023627	build.ninja	9bf85817a694b0fa
+2	1287	1734657508188821968	CMakeFiles/ace_signal.dir/GbtDb.cpp.o	7ab8c5991be2dbe0
+1	801	1734657524560872150	CMakeFiles/ace_signal.dir/Dbinstance.cpp.o	5e670122fc58c3c2
+1	164	1734657674301315870	ace_signal	c5bf859a288ebfb7
+1	421	1734484997615731118	CMakeFiles/ace_signal.dir/ComFunc.cpp.o	7bfdb078e1cbda0a
+1	820	1734657507720820528	CMakeFiles/ace_signal.dir/main.cpp.o	245695bf29549394
